@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">I'm computer engineering student, looking for opportunities and collabaration in projects related to Software Development</h3>
+<h3 align="center">Frontend Developer with solid experience in React, and strong proficiency in TypeScript, JavaScript, and RxJS,
+applying software engineering principles such as SOLID, KISS, and Clean Code. Passionate about building rich,
+responsive, and well-structured user interfaces, always focusing on modular and reusable architecture, especially
+in corporate environments.</h3>
 
-- 🌱 I’m currently learning **React and NodeJs**
+
 - My website https://luismatosdev.netlify.app/
 
 - 📫 How to reach me **luis.matos1992@gmail.com**
